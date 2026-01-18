@@ -1,61 +1,178 @@
 # Project: Quiet Reconnection
 
-## Product Definition
+**A discreet, self-paced digital program for parents navigating the empty nest transition.**
 
-**Product:** "Quiet Reconnection: Healing Empty Nest Regret"
+## Current Status: v2 MVP Complete
 
-**Concept:** A discreet, self-paced digital course ($497) for parents (40-60s) navigating the shame, grief, and identity loss of the empty nest.
+| Attribute | Value |
+|-----------|-------|
+| **Product Type** | Value ladder funnel (free → low → mid → high ticket) |
+| **Target Audience** | Parents 40-65, empty nesters, "Secret Strugglers" |
+| **Core Positioning** | Aspirational transformation, not just healing |
+| **Primary CTA** | Free email signup (5-day mini-course) |
 
-**Value Prop:** Private, non-clinical, empathy-driven. Solves "shame market" needs where users feel too embarrassed to seek public therapy.
+---
 
-**Target Audience:** Affluent parents ($100k+), "Secret Strugglers" who feel purposeless or regret past parenting choices.
+## Version History
 
-**MVP Scope:** 
-1. High-converting Landing Page (Privacy-focused).
-2. 5-Day "Quiet Healing" Email Nurture Sequence.
-3. Course Infrastructure (React/Tailwind web app).
+### v2 (Current) - Jan 2026
+- **Major Pivot:** Shifted from grief-focused to aspirational transformation messaging
+- **StoryBrand Framework:** Customer as hero on journey to "Next Chapter"
+- **Value Ladder:** Free → $37 → $29/mo → $497 progression
+- **New Headline:** "Your Kids Flew. Now It's Your Turn."
+- **Primary CTA:** Free 5-day email mini-course
 
-## Roadmap
+### v1 - Jan 2026
+- Initial MVP with grief-focused messaging
+- Single $497 course offer
+- Headline: "The House is Quiet. Your Heart Doesn't Have to Be."
 
-This roadmap outlines the steps to build and deliver a basic MVP to prove the market.
+---
 
-### Phase 1: Research and Validation (1–2 Weeks)
-- **Market Research**: Analyze Reddit (e.g., r/EmptyNest, r/Parenting) and forums for pain points—search "empty nest regret" to pull 20–30 threads. Survey 50–100 potential users via free tools like Google Forms or Typeform (distribute on Facebook groups).
-- **Competitor Analysis**: Review 5–10 similar products (e.g., search "empty nest course" on Udemy/Google). Note gaps (e.g., lack of visuals) and pricing.
-- **Audience Persona Refinement**: Build 2–3 personas using stats (e.g., "Sarah, 52, professional feeling purposeless"). Validate with 5–10 interviews (via LinkedIn outreach).
-- **Legal/Compliance Check**: Ensure content is non-medical (no therapy claims); consult a basic legal template for digital products.
+## Value Ladder
 
-### Phase 2: Content Creation (1–2 Weeks)
-- **Core Content Development**: Script/write 4–6 modules (e.g., 10–15 min videos each on mindset, reconnection). Use AI tools like Claude for drafts, then refine.
-- **Visual Design**: Leverage your design skills—create slideshows, infographics, and workbooks in Canva/Figma. Aim for calming aesthetics (soft blues, minimalist layouts).
-- **Faceless Assets**: Produce anonymous TikTok/Reels (10–20 pieces) with text overlays/stock images voicing stories/tips.
-- **Email Sequence**: Draft 5–7 nurture emails (e.g., weekly prompts) using empathy language.
+| Tier | Offer | Price | Purpose |
+|------|-------|-------|---------|
+| **Free** | "5 Days to Your Next Chapter" email course | $0 | Build trust, grow list |
+| **Low** | "The Next Chapter Toolkit" | $37 | Easy first purchase |
+| **Mid** | "The Next Chapter Circle" membership | $29/mo | Recurring revenue, community |
+| **High** | "The Complete Transformation" course | $497 | Full system for ready buyers |
 
-### Phase 3: Tech Setup and Build (1 Week)
-- **Platform Selection**: Use Gumroad/Teachable for hosting (free tier to start, $29/month upgrade). Set up payment processing (Stripe/PayPal).
-- **Funnel Build**: Create a simple landing page (Carrd or Notion, $19/year) with opt-in for emails. Integrate email tool (ConvertKit/Mailchimp, free for <1k subs).
-- **Testing**: Run end-to-end tests (signup, purchase, access). Ensure mobile-friendly (65% audience uses smartphones).
+---
 
-### Phase 4: Marketing and Launch (Ongoing, Start Week 3–4)
-- **Content Distribution**: Post faceless videos on TikTok/Instagram (target keywords like "empty nest tips"). Aim for 1k–5k views organically.
-- **Lead Generation**: Drive traffic to opt-in via free content; run $200–$500 targeted ads (Facebook Ads, focusing on 45+ demographics, interests like "parenting").
-- **Launch Sequence**: Soft launch to email list (aim for 200–500 subs first via content). Offer early-bird discount ($297) for feedback.
-- **Affiliate/Partnership Outreach**: Pitch 5–10 partners (e.g., hobby sites) for promo swaps.
+## Brand Guidelines (v2)
 
-### Phase 5: Measurement and Iteration (Post-Launch)
-- **Key Metrics**: Track email open rates (40%+), conversion to sales (10–15%), refund rates (<5%), and NPS feedback.
-- **Feedback Loop**: Send post-purchase surveys; iterate based on responses (e.g., add modules if needed).
-- **Scaling Prep**: If MVP hits 50 sales, expand content and ads.
+### Positioning
+- **FROM:** Grief, loss, healing (passive)
+- **TO:** Transformation, freedom, next chapter (active)
 
-## Voice of Customer
+### Tagline
+"From Empty Nest to Full Life"
 
-- "Will I ever get over feeling like I missed out on so much of my kids lives by being a working mom? ... I still often feel like it wasn’t enough. New empty nester and feeling a lot of pain and regret that I didn’t “enjoy it enough” and that I was too stressed out trying to build a life for us."
-- "It's just so quiet. I have so much empty space, not only in my home but in my heart. I'm just lost right now, I'm crying as I write this."
-- "I’m straight miserable and it doesn’t seem to be getting better. In fact, it’s getting worse."
-- "I don’t even feel like I know my husband. I haven’t been alone with him since I was 26. Our whole life has revolved around the kids. Now what will we talk about at the dinner table?"
-- "The early days of empty nesting can be depressing. It seems like what was the most important time of your life passed by so fast. Your kids are gone and you are pretty sure they have momentarily forgotten you exist."
-- "I’m no longer a young empty nester, but I’ve gone through this. I had three children, and now I have three pets — two cats and a dog. I have found it very helpful to share my life with creatures who are happy to spend time with me."
-- "It fucking sucks. For the first few months it was hard for us to simply get used to not having her around - we missed her simple presence."
-- "Kids give you purpose, they give you a sense of building something, nurturing something and growing something. A much greater purpose than your own existence and what you might choose to do outside of that."
-- "I can’t relate in any way to you, but I’d work on your identity. You’re not the everyday parent anymore. You’re going to be the situational, holiday, and winter break parent. What’s going to fill that time?"
-- "The silence. The empty house. Not knowing what to do with myself. loss of purpose. crisis of meaning. self destructive behavior. depression."
+### Keywords
+Freedom, Transformation, Rediscovery, Connection, Purpose
+
+### Color Palette
+- **Primary:** Dusty Blue (#6B8A9A) - slightly more vibrant
+- **Background:** Ivory White (#FAFAF8)
+- **Text:** Deep Charcoal (#2D2D2D)
+- **Accent:** Warm gray (#E8E4E0)
+
+### Typography
+- **Headlines:** Cormorant Garamond (serif)
+- **Body:** DM Sans (sans-serif)
+
+### Voice
+"The Encouraging Coach" — Empathetic but energizing, possibility-focused, action-oriented
+
+---
+
+## Assets Created
+
+### Landing Page
+- React/TypeScript/Tailwind CSS
+- Hosted on Manus platform
+- Email capture as primary CTA
+- Value ladder progression visible
+- Social proof section
+- FAQ section
+
+### Email Sequences
+1. **5-Day Free Mini-Course** (`v2-email-sequence-free.md`)
+   - Day 1: Why this feels hard
+   - Day 2: The freedom reframe
+   - Day 3: The reconnection paradox
+   - Day 4: Rediscovering you
+   - Day 5: Your next chapter blueprint
+
+2. **Original 5-Day Sequence** (`copy-email-sequence.md`) - v1, archived
+
+### Copy Documents
+- `v2-copy-landing-page.md` - Current landing page copy
+- `v2-brand-strategy.md` - Full strategic framework
+- `copy-landing-page.md` - v1, archived
+
+### Images
+- `hero-quiet-room.jpg` - Serene interior scene
+- `path-forward.jpg` - Sunrise path (used in v2 hero)
+- `abstract-healing.jpg` - Abstract watercolor
+- `connection-hands.jpg` - Hands reaching
+
+---
+
+## Funnel Flow
+
+```
+[Facebook/TikTok Ad] → [Landing Page] → [Email Signup (Free)]
+                                              ↓
+                                    [5-Day Email Sequence]
+                                              ↓
+                              [Offer: $37 Toolkit] ← Some buy
+                                              ↓
+                              [Nurture Sequence - 2 weeks]
+                                              ↓
+                              [Offer: $29/mo Circle] ← Some join
+                                              ↓
+                              [Ongoing Nurture + Value]
+                                              ↓
+                              [Offer: $497 Course] ← Ready buyers
+```
+
+---
+
+## Voice of Customer Research
+
+Key pain points from Reddit/forum research:
+
+> "It's just so quiet. I have so much empty space, not only in my home but in my heart."
+
+> "I feel like it wasn't enough. A lot of pain and regret that I didn't enjoy it enough..."
+
+> "I don't even feel like I know my husband anymore. Our whole life has revolved around the kids."
+
+> "Kids give you purpose... a much greater purpose than your own existence."
+
+> "The silence. The empty house. Not knowing what to do with myself. Loss of purpose."
+
+---
+
+## Roadmap (Updated for v2)
+
+### Phase 1: Foundation (Week 1)
+- [x] Landing page with email capture
+- [x] 5-day email sequence copy
+- [x] Brand guidelines and positioning
+- [ ] Publish landing page via Manus
+- [ ] Set up ConvertKit account
+- [ ] Import email sequence
+
+### Phase 2: Lead Magnet & Low-Ticket (Week 2)
+- [ ] Create PDF lead magnet (5 Gentle Ways to Reconnect)
+- [ ] Build $37 Toolkit in Canva/Notion
+- [ ] Set up Gumroad for payment
+- [ ] Create 3-5 faceless TikTok/Reels
+
+### Phase 3: Community & Content (Week 3-4)
+- [ ] Set up Circle/Skool for membership
+- [ ] Record Module 1: The Dignity of Grief
+- [ ] Record Module 2: Rewriting Your Story
+- [ ] Run initial Facebook Ads test ($200)
+
+### Phase 4: Scale (Month 2+)
+- [ ] Complete remaining course modules
+- [ ] Expand ad spend based on results
+- [ ] Build affiliate partnerships
+- [ ] Iterate based on feedback
+
+---
+
+## Links
+
+- **GitHub Repo:** https://github.com/mv-apps2025/quiet-reconnection
+- **Manus Memory:** https://github.com/mv-apps2025/manus-memory
+- **Notion Page:** https://www.notion.so/2ecddab725948138ac6bc2394e14a839
+- **Landing Page:** Manus webdev platform (publish to go live)
+
+---
+
+*Last Updated: January 18, 2026*
