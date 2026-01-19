@@ -1,75 +1,105 @@
-# Quiet Reconnection
+# The Next Chapter
 
-**From Empty Nest to Full Life**
+> **🚀 LIVE:** https://thenextchapter.manus.space
 
-A value ladder funnel for parents navigating the empty nest transition — transforming grief into growth.
+A transformational digital program for parents ready to embrace life after the empty nest.
 
-## Current Version: v2
-
-### What Changed in v2
-
-| Aspect | v1 | v2 |
-|--------|----|----|
-| **Positioning** | Grief-focused, healing | Aspirational, transformation |
-| **Headline** | "The House is Quiet..." | "Your Kids Flew. Now It's Your Turn." |
-| **Offer** | Single $497 course | Value ladder (Free → $37 → $29/mo → $497) |
-| **Primary CTA** | Buy course | Free email signup |
-| **Framework** | Empathy-only | StoryBrand (hero's journey) |
-
-### Value Ladder
-
-| Tier | Offer | Price |
-|------|-------|-------|
-| Free | "5 Days to Your Next Chapter" email course | $0 |
-| Low | "The Next Chapter Toolkit" | $37 |
-| Mid | "The Next Chapter Circle" membership | $29/mo |
-| High | "The Complete Transformation" course | $497 |
-
-## Repository Structure
-
-```
-quiet-reconnection/
-├── README.md
-├── docs/
-│   ├── project-overview.md      # Full product definition & roadmap
-│   ├── brand-guidelines.md      # v1 brand (archived)
-│   └── v2-brand-strategy.md     # v2 StoryBrand framework
-├── assets/
-│   ├── images/                  # Generated hero images
-│   │   ├── hero-quiet-room.jpg
-│   │   ├── abstract-healing.jpg
-│   │   ├── path-forward.jpg
-│   │   └── connection-hands.jpg
-│   └── copy/
-│       ├── copy-landing-page.md      # v1 landing page (archived)
-│       ├── copy-email-sequence.md    # v1 email sequence (archived)
-│       ├── v2-copy-landing-page.md   # v2 landing page copy
-│       └── v2-email-sequence-free.md # v2 5-day free mini-course
-```
-
-## Brand Guidelines (v2)
-
-**Tagline:** "From Empty Nest to Full Life"
-
-**Keywords:** Freedom, Transformation, Rediscovery, Connection, Purpose
-
-**Colors:**
-- Primary: Dusty Blue (#6B8A9A)
-- Background: Ivory White (#FAFAF8)
-- Text: Deep Charcoal (#2D2D2D)
-
-**Typography:**
-- Headlines: Cormorant Garamond (serif)
-- Body: DM Sans (sans-serif)
-
-**Voice:** "The Encouraging Coach" — Empathetic but energizing, possibility-focused
-
-## Links
-
-- **Landing Page:** Manus webdev platform
-- **Notion:** [Quiet Reconnection Page](https://www.notion.so/2ecddab725948138ac6bc2394e14a839)
-- **Manus Memory:** [github.com/mv-apps2025/manus-memory](https://github.com/mv-apps2025/manus-memory)
+**Tagline:** Your kids flew. Now it's your turn.
 
 ---
 
-*Built with Manus AI*
+## Overview
+
+The Next Chapter helps empty nesters navigate the transition from active parenting to their next life chapter. The brand focuses on **aspirational transformation** rather than grief/loss messaging.
+
+### Target Audience
+- Parents aged 45-65 whose last child has recently left home
+- Parents anticipating the empty nest transition
+- Affluent, educated, values personal growth
+
+---
+
+## Value Ladder
+
+| Tier | Product | Price |
+|------|---------|-------|
+| Free | 5-Day Email Guide | $0 |
+| Low | The Next Chapter Toolkit | $47 |
+| Mid | The Next Chapter Circle | $29/mo |
+| High | Complete Transformation Course | $497 |
+
+---
+
+## Tech Stack
+
+- **Frontend:** React 19, TypeScript, Tailwind CSS 4
+- **Build:** Vite
+- **Hosting:** Manus Platform
+- **Design:** Quiet Luxury Editorial style
+
+---
+
+## Brand Guidelines
+
+### Colors
+- Primary Accent: `#6B8A9A` (Dusty Blue)
+- Background: `#FAFAF8` (Ivory White)
+- Text: `#2D2D2D` (Deep Charcoal)
+- Border: `#E8E4E0` (Warm Gray)
+
+### Typography
+- Headlines: Cormorant Garamond (serif)
+- Body: DM Sans (sans-serif)
+
+### Voice
+"The Encouraging Coach" — Empathetic but energizing, possibility-focused, validation-first
+
+---
+
+## Key Headlines
+
+- "Your Kids Flew. Now It's Your Turn."
+- "For Parents Who Raised Great Kids — And Are Ready for More"
+- "This isn't an ending. It's an opening."
+- "Your kids didn't leave so you could shrink. They left so you could grow."
+
+---
+
+## Assets
+
+```
+assets/
+├── v3-copy-landing-page.md    # Current landing page copy
+├── v3-email-sequence.md       # 5-day email sequence
+├── v2-brand-strategy.md       # Strategic framework
+├── v2-email-sequence-free.md  # Previous email version
+└── copy-*.md                  # v1 archives
+```
+
+---
+
+## Email Sequence Topics
+
+1. **Day 1:** Why This Feels So Hard (The Identity Earthquake)
+2. **Day 2:** The Freedom Reframe
+3. **Day 3:** The Reconnection Paradox
+4. **Day 4:** Rediscovering You
+5. **Day 5:** Your Next Chapter Blueprint (Four Pillars)
+
+---
+
+## Links
+
+- **Live Site:** https://thenextchapter.manus.space
+- **Manus Memory:** https://github.com/mv-apps2025/manus-memory
+- **Notion:** https://www.notion.so/2ecddab725948138ac6bc2394e14a839
+
+---
+
+## Status
+
+✅ **PUBLISHED** - January 18, 2026
+
+---
+
+*Built with Manus*
